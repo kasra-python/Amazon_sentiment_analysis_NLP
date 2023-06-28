@@ -1,5 +1,5 @@
 # Amazon sentiment analysis 
-Sentiment Analysis¶
+Sentiment Analysis
 
 Sentiment analysis, also known as opinion mining, is a natural language processing (NLP) task that involves analyzing and determining the sentiment or opinion expressed in a piece of text, such as a customer review, social media post, or survey response. The goal of sentiment analysis is to understand and classify the subjective information conveyed in the text as positive, negative, or neutral.
 
